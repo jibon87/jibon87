@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jibon
+- 👋 Hi, I’m jibon
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on php developer.
